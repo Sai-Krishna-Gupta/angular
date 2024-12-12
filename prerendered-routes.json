@@ -1,0 +1,11 @@
+{
+  "routes": [
+    "/",
+    "/addWriter",
+    "/articleForm",
+    "/articleSelected",
+    "/deleteWriter",
+    "/emailControls",
+    "/writerLogin"
+  ]
+}
